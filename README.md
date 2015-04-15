@@ -1,4 +1,4 @@
-# Game of Life
+# [Game of Life](https://github.com/skaliak/gol)
 
 Not this one
 ![author: 松岡明芳](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Game_of_Life_%E4%BA%BA%E7%94%9F%E3%82%B2%E3%83%BC%E3%83%A0_DSCF2280.jpg/320px-The_Game_of_Life_%E4%BA%BA%E7%94%9F%E3%82%B2%E3%83%BC%E3%83%A0_DSCF2280.jpg)
